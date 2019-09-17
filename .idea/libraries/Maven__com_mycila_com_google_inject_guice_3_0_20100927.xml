@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mycila.com.google.inject:guice:3.0-20100927">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycila/com/google/inject/guice/3.0-20100927/guice-3.0-20100927.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycila/com/google/inject/guice/3.0-20100927/guice-3.0-20100927-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycila/com/google/inject/guice/3.0-20100927/guice-3.0-20100927-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
